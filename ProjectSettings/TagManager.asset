@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spawnable
+  - cubeButton1
+  - cubeButton2
+  - ScreenLabel
+  - cubeButton3
+  - myInfoMesh
+  - myNameMesh
+  - ExclamationMarkSphere
+  - ExclamationMarkCapsule
+  - cubeButtonClose
+  - ClickableListElement
+  - Event
+  - Condition
+  - RulePanelHeader
+  - RulePanelECA
+  - RulePanelCapability
+  - PlacedEvent
+  - PlacedCondition
+  - PlacedAction
+  - ActivableSwitch
+  - ActivableSwitchBase
+  - LeverOkButton
+  - LeverCancelButton
+  - BooleanTrue
+  - BooleanOk
+  - BooleanCancel
+  - BooleanTriggerTextMesh
+  - EnumElement
+  - EnumCancel
+  - EnumListElement
+  - ButtonEdit
+  - SaveRuleIcon
+  - NextOperator
+  - ActiveExclamationMarkCapsule
+  - ActiveExclamationMarkSphere
+  - InactiveIcon
+  - ActiveIcon
+  - InactiveDoor
+  - ActiveDoor
+  - InactiveWindow
+  - ActiveWindow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

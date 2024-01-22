@@ -1,0 +1,6 @@
+estimote_beacon
+Lamp
+Window
+philips_hue_sensor
+echo_dot
+honeywell_smoke_gas
